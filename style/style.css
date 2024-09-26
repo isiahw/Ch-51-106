@@ -1,0 +1,25 @@
+    
+main {
+    display: flex;
+    height: 100vh;
+    height: 100vh;
+    height: 100vh;
+    height: 100vh;
+    height: 100vh;
+    height: 100vh;
+    height: 100vh;
+    height: 100vh;
+    height: 100vh;
+    
+}
+
+#list {
+    background-color: aqua;
+    height: 100%;
+    flex: 3;
+}
+
+#form {
+    background-color: beige;
+    flex: 3;
+}
